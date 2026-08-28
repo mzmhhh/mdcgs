@@ -22,11 +22,11 @@
           </svg>
         </div>
         <h1 class="brand-title">MDCGS</h1>
-        <p class="brand-desc">数据分类分级系统mzm</p>
+        <p class="brand-desc">数据分类分级系统mzm2</p>
       </div>
       <div class="login-card">
         <h2 class="login-title">{{ isLdapLogin ? 'LDAP登录' : '登录' }}</h2>
-        <p class="login-subtitle">欢迎回到数据分类分级管理系统</p>
+        <p class="login-subtitle">欢迎mzm回到数据分类分级管理系统</p>
         <el-form ref="formRef" :model="loginForm" :rules="rules" class="login-form" @keyup.enter="handleLogin">
           <el-form-item prop="username">
             <div class="input-label">用户名</div>
