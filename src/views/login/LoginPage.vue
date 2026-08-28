@@ -22,7 +22,7 @@
           </svg>
         </div>
         <h1 class="brand-title">MDCGS</h1>
-        <p class="brand-desc">数据分类分级系统</p>
+        <p class="brand-desc">数据分类分级系统mzm</p>
       </div>
       <div class="login-card">
         <h2 class="login-title">{{ isLdapLogin ? 'LDAP登录' : '登录' }}</h2>
